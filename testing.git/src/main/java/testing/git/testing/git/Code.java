@@ -1,3 +1,5 @@
+package testing.git.testing.git;
+
 public class Code 
 {
     public static void main( String[] args )
